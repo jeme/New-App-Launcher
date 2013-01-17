@@ -1,1 +1,10 @@
-As per http://paul.kinlan.me/creating-a-new-new-tab-page-for-chrome/
+These are notes to self:
+
+Just to get the needed source guide for a project as per:
+http://paul.kinlan.me/creating-a-new-new-tab-page-for-chrome/
+
+More details on overriding:
+http://developer.chrome.com/extensions/override.html
+
+Manifest details:
+http://developer.chrome.com/extensions/manifest.html
